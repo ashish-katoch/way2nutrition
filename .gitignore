@@ -1,0 +1,12 @@
+node_modules
+.next
+.open-next
+.wrangler
+.env*
+!.env.example
+*.tsbuildinfo
+
+.worker-bundle
+
+dist/
+.DS_Store
